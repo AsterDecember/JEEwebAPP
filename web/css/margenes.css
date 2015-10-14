@@ -1,0 +1,23 @@
+.margenForm{
+	top: 20px;
+	position: relative;
+}
+
+body{
+	 background-color: #eceff1;
+}
+
+.jumbotron{
+	background-color: #123C5D;
+	color: #eceff1;
+}
+
+img{
+	height: 50%;
+	width: 100%;
+}
+
+.panel-heading{
+	background-color: rgba(0,46,75,1);
+}
+

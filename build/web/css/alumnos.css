@@ -1,0 +1,28 @@
+.colorBrue{
+ background-color: #002E4B !important;
+}
+
+.brue-text{
+ color: #002E4B !important;
+}
+
+.nav-wrapper{
+	background-color: rgba(0,46,75,1);
+}
+
+.inicio:hover{
+	background-color:  #003B5C;
+}
+
+.escudo{
+	height: 100px;
+	width: 100px;
+}
+.brand-logo
+{
+	vertical-align: middle;
+}
+
+nav{
+	height: 100px;
+}
