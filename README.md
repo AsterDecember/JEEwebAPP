@@ -1,1 +1,1 @@
-Quieres ser mi amigo :D?
+web app usando JEE con conexion a base de datos
